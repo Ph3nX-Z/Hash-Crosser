@@ -1,0 +1,18 @@
+password : mypass
+CROS Hash : <--$Ph3nX-Z$f69422db8c12a8263e28cedb51fe1a9fd8233baf5beab9d2a6042007dea219449468fce396643154c52cb1eee64af846f6ad4d01cdd297322c070aee-->
+ NTLM Hash : e0c32cda6f6ecc163f442d002bba3dafbce22829
+ MD5  Hash : a029d0df84eb5549c641e04a9ef389e5e26acd4f
+ SHA1 Hash : e727d1464ae12436e899a726da5b2f11d8381b26
+
+password : password
+CROS Hash : <--$Ph3nX-Z$f894d2df8c82a626ee2ece7b9bc916f38c352878fb8c0b63eb8d0d75d22b326880d6d10a6f7d315f163b79fab8a9e5ceb4a3eec17c6fda64a4fb8558-->
+ NTLM Hash : 8846f7eaee8fb117ad06bdd830b7586cbce22829
+ MD5  Hash : 5f4dcc3b5aa765d61d8327deb882cf99e26acd4f
+ SHA1 Hash : 5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8
+
+password : anotherpass
+CROS Hash : <--$Ph3nX-Z$f59412dd8cc2ae268e25ce1b507e17c2d2a1cad7e8895bdc21c86f1a4e45b9a664cdebd6c9971249d42174e6e303a0186c1e5fb1ac89401532b83488-->
+ NTLM Hash : 83219af18a3e1d296e4a54fcc58d1d77bce22829
+ MD5  Hash : 4b54cbe60067447cbc6be182b87c2ce5e26acd4f
+ SHA1 Hash : 8830815c13e42919dd694a61d9eaa210158ecd15
+
